@@ -1,1 +1,1 @@
-web: 
+web: java -jar target/MavenWebApp-1.0.jar
